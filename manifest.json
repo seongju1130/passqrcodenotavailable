@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "PASS",
   "orientation": "any",
-  "scope": "/",
+  "scope": "https://seongju1130.github.io/passqrcodenotavailable/",
   "short_name": "PASS",
-  "start_url": "/",
+  "start_url": "https://seongju1130.github.io/passqrcodenotavailable/",
   "theme_color": "#ffffff",
   "icons": [
     {
